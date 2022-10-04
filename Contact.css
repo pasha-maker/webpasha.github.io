@@ -1,0 +1,53 @@
+nav{
+    font-family: 'Courier New', Courier, monospace  ;
+    float: left;
+    margin-left: 1000px;
+    margin-top: 15px;
+     padding-left: 30px;
+     list-style: none;
+     font-size: 20px;
+     margin-bottom: 50px;
+}
+
+body{
+background-image: url(Putih.jpg);
+background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+form{
+    margin-top: 40px;
+}
+
+.form-control{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid gray;
+    border-bottom: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.container{width: 400px;
+    height: 380px;
+    background: rgb(255, 253, 253);
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+button{width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(27, 71, 229);
+    color: #fff;
+    margin-top: 15px;
+    cursor: pointer;    
+}
